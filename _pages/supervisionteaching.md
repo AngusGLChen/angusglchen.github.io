@@ -15,11 +15,12 @@ author_profile: true
 # Supervision
 
 ## -- Ph.D. --
-- Lele Sha, 2019/06 - Present, Monash University
-- Jionghao Lin, 2019/10 - Present, Monash University
-- Ikenna Osakwe, 2020/09 - Present, Monash University
 - Lin Li, 2021/05 - Present, Monash University
 - Wei Dai, 2021/05 - Present, Monash University
+- Ikenna Osakwe, 2020/09 - Present, Monash University
+- Lele Sha, 2019/06 - Present, Monash University
+- Jionghao Lin, 2019/10 - Present, Monash University
+
 
 ## -- Master & Bachelor --
 - Angel Das, 2020/02 - Present, Monash University
