@@ -19,9 +19,9 @@ author_profile: true
 
 
 ## -- Refereed International Journals -- 
-- Lixiang Yan, Alexander Whitelock‐Wainwright, Quanlong Guan, Gangxin Wen, Dragan Gašević, and Guanliang Chen (2021). [Students’ experience of online learning during the COVID‐19 pandemic: A province‐wide survey study.](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13102) British Journal of Educational Technology. \[[PDF](https://angusglchen.github.io/files/BJET2021_Lixiang_Students.pdf)\]\]
+- Lixiang Yan, Alexander Whitelock‐Wainwright, Quanlong Guan, Gangxin Wen, Dragan Gašević, and Guanliang Chen (2021). [Students’ experience of online learning during the COVID‐19 pandemic: A province‐wide survey study.](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13102) British Journal of Educational Technology. \[[PDF](https://angusglchen.github.io/files/BJET2021_Lixiang_Students.pdf)\]
 
-- Dan Davis, Guanliang Chen, Claudia Hauff, and Geert-Jan Houben (2018). [Activating Learning at Scale: A Review of Innovations in Online Learning Strategies.](https://www.sciencedirect.com/science/article/pii/S0360131518301337?via%3Dihub) Computers & Education. \[[PDF](https://angusglchen.github.io/files/CE2018-Davis.pdf)\]\]
+- Dan Davis, Guanliang Chen, Claudia Hauff, and Geert-Jan Houben (2018). [Activating Learning at Scale: A Review of Innovations in Online Learning Strategies.](https://www.sciencedirect.com/science/article/pii/S0360131518301337?via%3Dihub) Computers & Education. \[[PDF](https://angusglchen.github.io/files/CE2018-Davis.pdf)\]
 
 - Guanliang Chen, Dan Davis, Markus Krause, Efthimia Aivaloglou, Claudia Hauff, and Geert-Jan Houben (2016). [From Learners to Earners: Enabling MOOC Learners to Apply Their Skills and Earn Money in an Online Market Place.](https://ieeexplore.ieee.org/document/7579220/?arnumber=7579220&source=authoralert) IEEE Transactions on Learning Technologies. \[[PDF](https://angusglchen.github.io/files/TLT16_Guanliang_Can.pdf)\]
 
@@ -58,11 +58,11 @@ author_profile: true
 - Dan Davis, Guanliang Chen, Tim van der Zee, Claudia Hauff and Geert-Jan Houben. [Retrieval Practice and Study Planning in MOOCs: Exploring Classroom-Based Self-Regulated Learning Strategies at Scale.](http://link.springer.com/chapter/10.1007%2F978-3-319-45153-4_5) The European Conference on Technology-Enhanced Learning (EC-TEL), 2016. \[<span style="color:red">Best Student Paper Award</span>\] \[[PDF](https://angusglchen.github.io/files/ECTEL16_Dan_Retrieval.pdf)\]
 
 
-- Guanliang Chen, Dan Davis, Claudia Hauff and Geert-Jan Houben. [On the Impact of Personality in Massive Open Online Learning.](http://dl.acm.org/citation.cfm?id=2930240) The ACM International Conference on User Modeling, Adaptation and Personalization (UMAP), 2016. \[[PDF](https://angusglchen.github.io/files/UMAP16_Guanliang_Personality.pdf)\] [\[Slides\]](http://www.slideshare.net/GuanliangChen/on-the-impact-of-personality-in-massive-open-online-learning)
+- Guanliang Chen, Dan Davis, Claudia Hauff and Geert-Jan Houben. [On the Impact of Personality in Massive Open Online Learning.](http://dl.acm.org/citation.cfm?id=2930240) The ACM International Conference on User Modeling, Adaptation and Personalization (UMAP), 2016. \[[PDF](https://angusglchen.github.io/files/UMAP16_Guanliang_Personality.pdf)\] \[[Slides](http://www.slideshare.net/GuanliangChen/on-the-impact-of-personality-in-massive-open-online-learning)\]
 
 - Dan Davis, Guanliang Chen, Claudia Hauff and Geert-Jan Houben. [Gauging MOOC Learners' Adherence to the Designed Learning Path.](http://www.educationaldatamining.org/EDM2016/proceedings/paper_63.pdf)\] The International Conference on Educational Data Mining (EDM), 2016. \[[PDF](https://angusglchen.github.io/files/EDM16_Dan_Gauging.pdf)\]
 
-- Guanliang Chen, Dan Davis, Jun Lin, Claudia Hauff and Geert-Jan Houben. [Beyond the MOOC platform: Gaining Insights aboutLearners from the Social Web.](http://doi.acm.org/10.1145/2908131.2908145) The ACM Conference on Web Science (WebSci), 2016. \[[PDF](https://angusglchen.github.io/files/WEBSCI16_Guanliang_Beyond.pdf)\] [\[Slides\]](http://www.slideshare.net/GuanliangChen/beyond-the-mooc-platform-gaining-insights-about-learners-from-the-social-web)
+- Guanliang Chen, Dan Davis, Jun Lin, Claudia Hauff and Geert-Jan Houben. [Beyond the MOOC platform: Gaining Insights aboutLearners from the Social Web.](http://doi.acm.org/10.1145/2908131.2908145) The ACM Conference on Web Science (WebSci), 2016. \[[PDF](https://angusglchen.github.io/files/WEBSCI16_Guanliang_Beyond.pdf)\] \[[Slides](http://www.slideshare.net/GuanliangChen/beyond-the-mooc-platform-gaining-insights-about-learners-from-the-social-web)\]
 
 - Guanliang Chen, Dan Davis, Claudia Hauff and Geert-Jan Houben. [Learning Transfer: Does It Take Place in MOOCs? An Investigation into the Uptake of Functional Programming in Practice.](http://dl.acm.org/citation.cfm?doid=2876034.2876035) The ACM Conference on Learning at Scale (L@S), 2016. \[<span style="color:red">Honorable Mention Award</span>\] \[[PDF](https://angusglchen.github.io/files/LS16_Guanliang_Learning.pdf)\]
 
@@ -71,15 +71,15 @@ author_profile: true
 
 
 ## -- Editorial Contribution --
-- Chaoyi Pang, Yunjun Gao, Guanliang Chen, Elvira Popescu, Lu Chen, Tianyong Hao, Bailing Zhang, Silvia Margarita Baldiris Navarro, and Qing Li. [Proceedings of 19th International Conference on Web-Based Learning (ICWL 2020) and 5th International Symposium on Emerging Technologies for Education (SETE 2020)](https://link.springer.com/book/10.1007/978-3-030-66906-5), 2020. \[[PDF](https://angusglchen.github.io/files/ICWLSETE_Chaoyi_Conference.pdf)\]\]
+- Chaoyi Pang, Yunjun Gao, Guanliang Chen, Elvira Popescu, Lu Chen, Tianyong Hao, Bailing Zhang, Silvia Margarita Baldiris Navarro, and Qing Li. [Proceedings of 19th International Conference on Web-Based Learning (ICWL 2020) and 5th International Symposium on Emerging Technologies for Education (SETE 2020)](https://link.springer.com/book/10.1007/978-3-030-66906-5), 2020. \[[PDF](https://angusglchen.github.io/files/ICWLSETE_Chaoyi_Conference.pdf)\]
 
-- Elle Wang, Dan Davis, Guanliang Chen and Luc Paquette. [Workshop on Integrated Learning Analytics of MOOC Post-Course Development.](https://dl.acm.org/citation.cfm?id=3029430) The International Conference on Learning Analytics and Knowledge (LAK), 2017. \[[PDF](https://angusglchen.github.io/files/LAK17_Elle_Workshop.pdf)\]\]
+- Elle Wang, Dan Davis, Guanliang Chen and Luc Paquette. [Workshop on Integrated Learning Analytics of MOOC Post-Course Development.](https://dl.acm.org/citation.cfm?id=3029430) The International Conference on Learning Analytics and Knowledge (LAK), 2017. \[[PDF](https://angusglchen.github.io/files/LAK17_Elle_Workshop.pdf)\]
 
 ## -- Workshops & Posters & Others --
 
-- Guanliang Chen, Claudia Hauff and Geert-Jan Houben. [Feature Engineering for Second Language Acquisition Modeling.](http://sharedtask.duolingo.com/papers/chen.slam18.pdf)\] Workshop on Innovative Use of NLP for Building Educational Applications, co-located with The North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HTL), 2018. \[[PDF](https://angusglchen.github.io/files/NAACL-HLT-BEA_Guanliang_Feature.pdf)\]\]
+- Guanliang Chen, Claudia Hauff and Geert-Jan Houben. [Feature Engineering for Second Language Acquisition Modeling.](http://sharedtask.duolingo.com/papers/chen.slam18.pdf)\] Workshop on Innovative Use of NLP for Building Educational Applications, co-located with The North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HTL), 2018. \[[PDF](https://angusglchen.github.io/files/NAACL-HLT-BEA_Guanliang_Feature.pdf)\]
 
-- Yue Zhao, Dan Davis, Guanliang Chen, Christoph Lofi, Claudia Hauff and Geert-Jan Houben. [Certificate Achievement Unlocked: Exploring MOOC Learners' Behaviour Before & After Passing.](http://dl.acm.org/citation.cfm?id=3099063) The ACM Conference on User Modeling, Adaptation and Personalization (UMAP), 2017. \[[PDF](https://angusglchen.github.io/files/UMAP2017_Yue_Certificate.pdf)\]\]
+- Yue Zhao, Dan Davis, Guanliang Chen, Christoph Lofi, Claudia Hauff and Geert-Jan Houben. [Certificate Achievement Unlocked: Exploring MOOC Learners' Behaviour Before & After Passing.](http://dl.acm.org/citation.cfm?id=3099063) The ACM Conference on User Modeling, Adaptation and Personalization (UMAP), 2017. \[[PDF](https://angusglchen.github.io/files/UMAP2017_Yue_Certificate.pdf)\]
 
 - Guanliang Chen, Dan Davis, Markus Krause, Claudia Hauff and Geert-Jan Houben. [Buying Time: Enabling Learners to become Earners with a Real-World Paid Task Recommender System.](http://dl.acm.org/citation.cfm?id=3029469) The International Conference on Learning Analytics and Knowledge (LAK), 2017. \[[PDF](https://angusglchen.github.io/files/LAK17_Guanliang_Buying.pdf)\]
 
