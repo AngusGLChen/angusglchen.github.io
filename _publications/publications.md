@@ -7,7 +7,7 @@
 * Li Chen, Guanliang Chen and Feng Wang (2015). [Recommender systems based on user reviews: the state of the art.](http://link.springer.com/article/10.1007%2Fs11257-015-9155-5) User Modeling and User-Adapted Interaction Journal (UMUAI). [\[PDF\]](documents/UMUAI15_Li_Recommender.pdf)
 
 
-## -- Refereed International Conferences --
+## Refereed International Conferences
 * Jionghao Lin, David Lang, Haoran Xie, Dragan Gašević, and Guanliang Chen. Investigating the Role of Politeness in Human-Human Online Tutoring. The International Conference on Artificial Intelligence in Education (AIED), 2020. (Short paper) [\[PDF\]](documents/AIED2020_Jionghao_Investigating.pdf)
 * Guanliang Chen, Vitor Rolim, Rafael Ferreira Mello, and Dragan Gašević. [Let’s Shine Together! A Comparative Study between Learning Analytics and Educational Data Mining.](https://dl.acm.org/doi/10.1145/3375462.3375500) The International Conference on Learning Analytics and Knowledge (LAK), 2020. (Full paper) [\[PDF\]](documents/LAK2020_Guanliang_Lets.pdf)
 * Máverick Ferreira, Vitor Rolim, Rafael Ferreira Mello, Rafael Lins, Guanliang Chen, and Dragan Gašević. [Towards Automatic Content Analysis of Social Presence in Transcripts of Online Discussions.](https://dl.acm.org/doi/abs/10.1145/3375462.3375495) The International Conference on Learning Analytics and Knowledge (LAK), 2020. (Full paper) [\[PDF\]](documents/LAK2020_Maverick_Towards.pdf)
