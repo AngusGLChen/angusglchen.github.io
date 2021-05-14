@@ -21,7 +21,7 @@ In particular, Guanliang aims to apply state-of-the-art language technologies to
 - Fairness, accountability, and transparency of Machine Learning techniques in education;
 - Automatic collection and generation of quality educational materials (e.g., assessment questions and informative feedback).
 
-For **prospective students**: I am always looking for self-motivated Ph.D. students, who have a strong interest in educational research, to work with me. I'm also happy to work with master and undergraduate students at Monash University. If you are interested, please contact me via guanliang.chen@monash.edu.
+For **prospective students**: I am always looking for self-motivated Ph.D. students, who have a strong interest in educational research, to work with me. I'm also happy to work with master and undergraduate students at Monash University. If you are interested, please contact me via <guanliang.chen@monash.edu>.
 
 
 What's New
