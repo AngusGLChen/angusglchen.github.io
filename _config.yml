@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Guanliang CHEN"
-  avatar           : "images/bio.png"
+  avatar           : "images/bio.jpg"
   bio              : "Lecturer @ Monash University"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=NqOqvk0AAAAJ&hl=en"
-  email            :
+  email            : "guanliang.chen@monash.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
