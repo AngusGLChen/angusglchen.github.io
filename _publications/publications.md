@@ -1,6 +1,6 @@
 # Publication
 
-## -- Refereed International Journals --
+## Refereed International Journals
 * Dan Davis, Guanliang Chen, Claudia Hauff and Geert-Jan Houben. [Activating Learning at Scale: A Review of Innovations in Online Learning Strategies.](https://www.sciencedirect.com/science/article/pii/S0360131518301337?via%3Dihub) Computers & Education. [\[PDF\]](documents/CE2018-Davis.pdf)
 * Guanliang Chen, Dan Davis, Markus Krause, Efthimia Aivaloglou, Claudia Hauff and Geert-Jan Houben (2016). [From Learners to Earners: Enabling MOOC Learners to Apply Their Skills and Earn Money in an Online Market Place.](https://ieeexplore.ieee.org/document/7579220/?arnumber=7579220&source=authoralert) IEEE Transactions on Learning Technologies. [\[PDF\]](documents/TLT16_Guanliang_Can.pdf)
 * Guanliang Chen and Li Chen (2015). [Augmenting service recommender systems by incorporating contextual opinions from user reviews.](http://link.springer.com/article/10.1007%2Fs11257-015-9157-3) User Modeling and User-Adapted Interaction Journal (UMUAI). [\[PDF\]](documents/UMUAI15_Guanliang_Augmenting.pdf)
