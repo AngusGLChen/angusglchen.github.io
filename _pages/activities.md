@@ -31,7 +31,7 @@ author_profile: true
 * The International Conference on Artificial Intelligence in Education (AIED), 2020 & 2021
 * The International Conference on Learning Analytics and Knowledge (LAK), 2018 & 2019 & 2020 & 2021
 * Workshop on Innovative Use of NLP for Building Educational Applications (BEA), 2020 & 2021
-* The International Baltic Conference on Databases and Information Systems (Baltic DB\&IS), 2020
+* The International Baltic Conference on Databases and Information Systems (Baltic DB&IS), 2020
 * The International Symposium on Emerging Technologies for Education, 2018
 * The International Conference on Web-based Learning (ICWL), 2017 & 2018
 * The Global Chinese Conference on Computers in Education, 2018
