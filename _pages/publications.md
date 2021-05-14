@@ -19,9 +19,9 @@ author_profile: true
 
 
 ## -- Refereed International Journals -- 
-- Lixiang Yan, Alexander Whitelock‐Wainwright, Quanlong Guan, Gangxin Wen, Dragan Gašević, and Guanliang Chen. [Students’ experience of online learning during the COVID‐19 pandemic: A province‐wide survey study.](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13102) British Journal of Educational Technology. [\[PDF\]](BJET_Lixiang_Students.pdf)
+- Lixiang Yan, Alexander Whitelock‐Wainwright, Quanlong Guan, Gangxin Wen, Dragan Gašević, and Guanliang Chen. [Students’ experience of online learning during the COVID‐19 pandemic: A province‐wide survey study.](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13102) British Journal of Educational Technology. \[[PDF](BJET_Lixiang_Students.pdf)\]
 
-- Dan Davis, Guanliang Chen, Claudia Hauff and Geert-Jan Houben. [Activating Learning at Scale: A Review of Innovations in Online Learning Strategies.](https://www.sciencedirect.com/science/article/pii/S0360131518301337?via%3Dihub) Computers & Education. [\[PDF\]](CE2018-Davis.pdf)
+- Dan Davis, Guanliang Chen, Claudia Hauff and Geert-Jan Houben. [Activating Learning at Scale: A Review of Innovations in Online Learning Strategies.](https://www.sciencedirect.com/science/article/pii/S0360131518301337?via%3Dihub) Computers & Education. \[[PDF](files/CE2018-Davis.pdf)\]
 
 - Guanliang Chen, Dan Davis, Markus Krause, Efthimia Aivaloglou, Claudia Hauff and Geert-Jan Houben (2016). [From Learners to Earners: Enabling MOOC Learners to Apply Their Skills and Earn Money in an Online Market Place.](https://ieeexplore.ieee.org/document/7579220/?arnumber=7579220&source=authoralert) IEEE Transactions on Learning Technologies. [\[PDF\]](TLT16_Guanliang_Can.pdf)
 
@@ -70,9 +70,9 @@ author_profile: true
 ## -- Editorial Contribution --
 - Chaoyi Pang, Yunjun Gao, Guanliang Chen, Elvira Popescu, Lu Chen, Tianyong Hao, Bailing Zhang, Silvia Margarita Baldiris Navarro, and Qing Li. [Proceedings of 19th International Conference on Web-Based Learning (ICWL 2020) and 5th International Symposium on Emerging Technologies for Education (SETE 2020)](https://link.springer.com/book/10.1007/978-3-030-66906-5), 2020. [\[PDF\]](ICWLSETE_Chaoyi_Conference.pdf)
 
-- Elle Wang, Dan Davis, Guanliang Chen and Luc Paquette. [Workshop on Integrated Learning Analytics of MOOC Post-Course Development.](https://dl.acm.org/citation.cfm?id=3029430) The International Conference on Learning Analytics and Knowledge (LAK), 2017. [\[PDF\]](LAK17_Elle_Workshop.pdf)
+- Elle Wang, Dan Davis, Guanliang Chen and Luc Paquette. [Workshop on Integrated Learning Analytics of MOOC Post-Course Development.](https://dl.acm.org/citation.cfm?id=3029430) The International Conference on Learning Analytics and Knowledge (LAK), 2017. \[[PDF](LAK17_Elle_Workshop.pdf)\]
 
-## -- Workshops \& Posters \& Others --
+## -- Workshops & Posters & Others --
 
 - Guanliang Chen, Claudia Hauff and Geert-Jan Houben. [Feature Engineering for Second Language Acquisition Modeling.](http://sharedtask.duolingo.com/papers/chen.slam18.pdf) Workshop on Innovative Use of NLP for Building Educational Applications, co-located with The North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HTL), 2018. (Workshop paper) [\[PDF\]](NAACL-HLT-BEA_Guanliang_Feature.pdf)
 
