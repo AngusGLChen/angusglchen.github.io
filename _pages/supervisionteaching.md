@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Supervision"
+title: ""
 permalink: /supervisionteaching/
 author_profile: true
 ---
@@ -11,6 +11,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
  -->
+
+# Supervision
 
 ## -- Ph.D. --
 - Lele Sha, 2019/06 - Present, Monash University
@@ -24,7 +26,9 @@ author_profile: true
 - Haixin Shi, 2020/02 - Present, Monash University
 - Liangyu Hao, 2020/02 - Present, Monash University
 - Shaocong Liu, 2020/08 - Present, Monash University
-- Yingying Bao, 2016/01 - 2017/02, Delft University of Technology [Thesis](https://repository.tudelft.nl/islandora/object/uuid%3A64ee5526-8c9e-4013-9019-c63a63413ca2)
+- Yingying Bao, 2016/01 - 2017/02, Delft University of Technology \[[Thesis](https://repository.tudelft.nl/islandora/object/uuid%3A64ee5526-8c9e-4013-9019-c63a63413ca2)\]
+
+<br/>
 
 # Teaching
 - 2021 S2, FIT5145: Introduction to Data Science
