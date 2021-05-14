@@ -19,7 +19,7 @@ author_profile: true
 - Wei Dai, 2021/05 - Present, Monash University
 - Ikenna Osakwe, 2020/09 - Present, Monash University
 - Lele Sha, 2019/06 - Present, Monash University
-- Jionghao Lin, 2019/10 - Present, Monash University
+- [Jionghao Lin](https://sites.google.com/site/jiognhaolin/home?authuser=0), 2019/10 - Present, Monash University
 
 
 ## -- Master & Bachelor --
