@@ -10,9 +10,16 @@ redirect_from:
 
 Dr. Guanliang Chen is a Lecturer in the Faculty of Information Technology, [Monash University](https://www.monash.edu/), Australia. Prior to joining Monash University, he obtained his Ph.D. from the Faculty of Electrical Engineering, Mathematics & Computer Science, [Delft University of Technology](https://www.tudelft.nl/en/) (TU Delft) in the Netherlands.
 
+Guanliang's research goal is to apply state-of-the-art language technologies to make use of the textual data collected in various educational settings (e.g., Q&A pairs in discussion forums, instructor-crafted feedback, and student-generated reflective statements) to construct a more inclusive learning environment. In particular, his research work is centered around two themes:
+
+- Fairness, accountability, and transparency of existing Machine Learning techniques used in education;
+- Automatic collection and generation of quality educational materials (e.g., assessment questions and informative feedback).
+
+For **prospective students**: I am always looking for self-motivated Ph.D. students, who have a strong interest in educational research, to work with me. I'm also happy to work with master and undergraduate students at Monash University. If you are interested, please send me an email.
+
 
 What's New
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+- Full paper "Assessing Algorithmic Fairness in Automatic Classifiers of Educational Forum Posts" accepted at AIED 2021.
+- Full paper "Which Hammer should I Use? A Systematic Evaluation ofApproaches for Classifying Educational Forum Posts" accepted at EDM 2021.
+- Journal article "Students' Experience of Online Learning During the COVID-19 Pandemic: A Province-wide Survey Study" accepted by Computers in Human Behavior.
