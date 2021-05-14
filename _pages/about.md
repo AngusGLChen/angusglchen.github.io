@@ -26,6 +26,6 @@ For **prospective students**: I am always looking for self-motivated Ph.D. stude
 
 What's New
 ======
-- Full paper "Assessing Algorithmic Fairness in Automatic Classifiers of Educational Forum Posts" accepted at AIED 2021.
-- Full paper "Which Hammer should I Use? A Systematic Evaluation ofApproaches for Classifying Educational Forum Posts" accepted at EDM 2021.
-- Journal article "Students' Experience of Online Learning During the COVID-19 Pandemic: A Province-wide Survey Study" accepted by Computers in Human Behavior.
+- Full paper "<em>Assessing Algorithmic Fairness in Automatic Classifiers of Educational Forum Posts</em>" accepted at AIED 2021.
+- Full paper "<em>Which Hammer should I Use? A Systematic Evaluation ofApproaches for Classifying Educational Forum Posts</em>" accepted at EDM 2021.
+- Journal article "<em>Students' Experience of Online Learning During the COVID-19 Pandemic: A Province-wide Survey Study</em>" accepted by Computers in Human Behavior.
