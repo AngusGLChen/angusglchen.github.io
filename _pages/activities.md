@@ -20,7 +20,7 @@ author_profile: true
 ## -- Conference & Workshop Organization --
 * General Co-Chair, The 5th International Symposium on Emerging Technologies for Education, 2020
 * Track Chair, The 4th International Symposium on Emerging Technologies for Education, 2019
-* Co-chair, Workshop on Integrated Learning Analytics of MOOC Post-Course Development (co-located with the International Conference on Learning Analytics and Knowledge), 2017
+* Co-chair, Workshop on Integrated Learning Analytics of MOOC Post-Course Development, 2017
 * Co-organizer, The 15th Dutch-Belgian Information Retrieval Workshop, 2016
 
 
@@ -36,9 +36,9 @@ author_profile: true
 * The International Conference on Web-based Learning (ICWL), 2017 & 2018
 * The Global Chinese Conference on Computers in Education, 2018
 * The 1st International Symposium on User Modeling and Language Learning, 2017
-% * Workshop on FutureLearn data: what we currently have, what we are learning and how it is demonstrating learning in MOOCs (co-located with the 7th International Conference on Learning Analytics and Knowledge), 2017
-* Workshop on FutureLearn data (co-located with the International Conference on Learning Analytics and Knowledge), 2017
-* The International Workshop on Semantic Computing and Personalization (co-located with the International Conference on Database for Advanced Application), 2016
+* Workshop on FutureLearn data: what we currently have, what we are learning and how it is demonstrating learning in MOOCs, 2017
+* Workshop on FutureLearn data, 2017
+* The International Workshop on Semantic Computing and Personalization, 2016
 
 
 ## -- Invited Reviewer --
