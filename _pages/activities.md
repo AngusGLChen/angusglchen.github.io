@@ -25,6 +25,7 @@ author_profile: true
 
 
 ## -- Program Committee Member --
+* ACM International Conference on Supporting Group Work (GROUP), 2022
 * The IEEE International Conference on Advanced Learning Technologies (ICALT), 2021
 * The AAAI Conference on Artificial Intelligence, 2021
 * The International Conference on Educational Data Mining (EDM), 2019 & 2020
