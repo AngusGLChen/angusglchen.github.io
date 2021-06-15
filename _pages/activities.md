@@ -44,12 +44,13 @@ author_profile: true
 
 ## -- Invited Reviewer --
 * Big Data Research, 2020
-* The 9th International Conference on Learning Representations (ICLR 2020)
+* The International Conference on Neural Information Processing Systems (NeurIPS), 2021
+* The International Conference on Learning Representations (ICLR), 2021 & 2022
 * Computers in Human Behavior, 2020 & 2021
 * British Journal of Educational Technology, 2020
 * Computers & Education, 2017 & 2018 & 2019 & 2020
 * The 12th International Conference on Educational Data Mining, 2019
-* IEEE Transactions on Learning Technologies, 2017 & 2018 & 2020
+* IEEE Transactions on Learning Technologies, 2017 & 2018 & 2020 & 2021
 * Journal of Web Engineering, 2020
 * IEEE Transactions on Systems, Man and Cybernetics: Systems, 2017
 * ACM Computing Surveys, 2016
