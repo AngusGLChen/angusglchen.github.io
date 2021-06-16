@@ -31,7 +31,7 @@ author_profile: true
 
 
 ## -- Refereed International Conferences --
-- Lele Sha, Mladen Raković, Alexander Whitelock-Wainwright, David Carroll, Victoria M. Yew, Dragan Gašević, and Guanliang Chen. [Assessing Algorithmic Fairness in Automatic Classifiers of Educational Forum Posts.]() The International Conference on Artificial Intelligence in Education (AIED), 2021. (Full paper) \[[PDF](https://angusglchen.github.io/files/AIED2021_Lele_Assessing.pdf)\]
+- Lele Sha, Mladen Raković, Alexander Whitelock-Wainwright, David Carroll, Victoria M. Yew, Dragan Gašević, and Guanliang Chen. [Assessing Algorithmic Fairness in Automatic Classifiers of Educational Forum Posts.]() The International Conference on Artificial Intelligence in Education (AIED), 2021. (Full paper, acceptance rate 24%) \[[PDF](https://angusglchen.github.io/files/AIED2021_Lele_Assessing.pdf)\]
 
 - Lele Sha, Mladen Raković, Alexander Whitelock-Wainwright, David Carroll, Dragan Gašević, and Guanliang Chen. [Which Hammer should I Use? A Systematic Evaluation of Approaches for Classifying Educational Forum Posts.]() The International Conference on Educational Data Mining (EDM), 2021. (Full paper) \[[PDF](https://angusglchen.github.io/files/EDM2021_Lele_Which.pdf)\]
 
