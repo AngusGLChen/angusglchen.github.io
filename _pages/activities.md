@@ -13,7 +13,7 @@ author_profile: true
  -->
 
 ## -- Talks --
-* Invited speaker, <em>Towards Constructing Intelligent Educational Applications with Language Technologies</em>, Workshop on Artificial Intelligence for Education, Huawei Technologies Group Co., Ltd., China, 2021.
+* Invited speaker, <em>Towards Constructing Intelligent Educational Applications with Language Technologies</em>, Workshop on Artificial Intelligence for Education, Huawei Technologies Co., Ltd., China, 2021.
 * Invited speaker, <em>Towards Building Intelligent Educational Applications with Artificial Intelligence</em>, The Symposium on Artificial Intelligence and Big Data, Hong Kong Open University, Hong Kong, China, 2019.
 * Keynote speaker, <em>Understanding and Engaging MOOC Learners: A Data-driven Approach</em>, Doctoral Student Forum on MOOC Research, Peking University, Beijing, China, 2017.
 
