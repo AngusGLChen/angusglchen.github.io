@@ -13,6 +13,7 @@ author_profile: true
  -->
 
 ## -- Talks --
+* Invited speaker, <em>Towards Constructing Intelligent Educational Applications with Language Technologies</em>, Workshop on Artificial Intelligence for Education, Huawei Technologies Group Co., Ltd., China, 2021.
 * Invited speaker, <em>Towards Building Intelligent Educational Applications with Artificial Intelligence</em>, The Symposium on Artificial Intelligence and Big Data, Hong Kong Open University, Hong Kong, China, 2019.
 * Keynote speaker, <em>Understanding and Engaging MOOC Learners: A Data-driven Approach</em>, Doctoral Student Forum on MOOC Research, Peking University, Beijing, China, 2017.
 
@@ -43,15 +44,15 @@ author_profile: true
 
 
 ## -- Invited Reviewer --
-* Big Data Research, 2020
-* The International Conference on Neural Information Processing Systems (NeurIPS), 2021
 * The International Conference on Learning Representations (ICLR), 2021 & 2022
-* Computers in Human Behavior, 2020 & 2021
-* British Journal of Educational Technology, 2020
-* Computers & Education, 2017 & 2018 & 2019 & 2020
-* The 12th International Conference on Educational Data Mining, 2019
+* Computers & Education, 2017 & 2018 & 2019 & 2020 & 2021
 * IEEE Transactions on Learning Technologies, 2017 & 2018 & 2020 & 2021
+* The International Conference on Neural Information Processing Systems (NeurIPS), 2021
+* Computers in Human Behavior, 2020 & 2021
+* Big Data Research, 2020
+* British Journal of Educational Technology, 2020
 * Journal of Web Engineering, 2020
+* The 12th International Conference on Educational Data Mining, 2019
 * IEEE Transactions on Systems, Man and Cybernetics: Systems, 2017
 * ACM Computing Surveys, 2016
 * International Journal of Distance Education Technologies, 2015
